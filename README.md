@@ -1,2 +1,0 @@
-# Classmodule14
-Assignment
